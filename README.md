@@ -35,7 +35,7 @@ Develop an application *with the person next to you* that runs in Xcode's simula
 Some important hints and reminders:
 
 * Ask your neighbor for help!
-* Google it!
+* Google your errors but don't google the entire solution for the game
 * You'll want to write all of your code in the ViewController.swift file.
 * If you finish early, think of other ways to make your user experience better!
 
