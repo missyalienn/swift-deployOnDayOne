@@ -4,7 +4,7 @@
 
 Welcome to Flatiron! 
 
-You're going to be writing code every day that you're here, and today is no exception. Let's see what you remember from doing the prework and write a simple application to get to know one another. In this lab we'll check a few concepts. Most importantly, we are going to do some simple Swift work. Let's get started!
+You're going to be writing code every day that you're here, and today is no exception. Let's see what you remember from doing the prework and write a simple application. In this lab we'll check a few concepts. Most importantly, we are going to do some simple Swift work. Let's get started!
 
 ##Tips
 
