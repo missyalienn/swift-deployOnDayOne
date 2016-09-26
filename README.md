@@ -25,7 +25,7 @@ As you've just heard, we want to make sure you know that [imposter syndrome](htt
 
 Your mission, the one you've already chosen to accept by being here today, is as follows:
 
-Develop an application *with the person next to you* that runs in Xcode's simulator. Collaborate however you'd like: working on the same machine, each on your own, git, whatever! This appliation is meant to be a simple tic tac toe game. Working through this lab will require you to create a brand new Xcode project. No UI is provided for you so you will have to do some rough designs for yourself. Some important notes to consider are as follows:
+Develop an application *with the person next to you* that runs in Xcode's simulator. Collaborate however you'd like: working on the same machine, each on your own, git, whatever! This appliation is meant to be a simple tic tac toe game. No UI is provided for you so you will have to do some rough designs for yourself. Some important notes to consider are as follows:
 
 1)How would you faciliate a user playing against the computer vs playing with another user sharing the phone
 
